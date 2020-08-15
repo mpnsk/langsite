@@ -9,8 +9,8 @@ public class Employee {
     private Long id;
 
     @Column
-    private String first_name;
+    private String firstName;
 
     @Column
-    private String last_name;
+    private String lastName;
 }
